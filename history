@@ -1,0 +1,4 @@
+
+miner.start(1)
+eth.accounts
+miner.start(1)
